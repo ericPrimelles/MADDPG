@@ -1,4 +1,3 @@
-from venv import create
 import tensorflow as tf
 import keras
 from keras import layers
